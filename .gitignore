@@ -1,0 +1,27 @@
+# Application properties — never commit real credentials
+backend/src/main/resources/application.properties
+application.properties
+
+# Environment files
+.env
+*.env
+
+# Java/Maven
+target/
+*.class
+*.jar
+*.war
+
+# Node/React
+node_modules/
+build/
+.npm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
