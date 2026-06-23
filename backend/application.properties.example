@@ -2,4 +2,4 @@
 # Never commit application.properties to source control
 
 spring.data.mongodb.database=movie_db
-spring.data.mongodb.uri=mongodb+srv://your-username:your-password@your-cluster.mongodb.net/movie_db
+spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<your-cluster>.mongodb.net/movie_db
